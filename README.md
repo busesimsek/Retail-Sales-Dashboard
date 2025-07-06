@@ -1,20 +1,18 @@
-# 🛍️ Retail Sales Dashboard
+# 🛒 Retail Sales Dashboard
 
 This project presents an interactive Excel dashboard built to visualize and analyze customer behavior and sales trends in a synthetic retail environment. The dashboard helps uncover key insights on how demographics, seasons, and product categories affect purchasing patterns.
 
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
 
 
----
-
-## 📊 Dataset Source
+## 🔗 Dataset Source
 
 **Source:** [Kaggle - Retail Sales Dataset by Mohammad Talib](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
-This synthetic dataset mirrors a real-world retail setup, containing sales transactions and customer demographic data. It’s ideal for hands-on practice in data exploration, dashboard design, and deriving insights for decision-making.
+This synthetic dataset mirrors a real-world retail setup, containing sales transactions and customer demographic data. It is ideal for hands-on practice in data exploration, dashboard design, and deriving insights for decision-making.
 
----
 
-## 🧾 Dataset Description
+## 🗒️ Dataset Description
 
 The dataset includes the following fields:
 
@@ -30,9 +28,8 @@ The dataset includes the following fields:
 
 I imported the raw `.csv` file into Excel and created three main worksheets in my workbook titled `Retail_Sales_Dashboard`:
 
----
 
-## 🧱 Project Structure
+## 📂 Project Structure
 
 **1. Dataset Worksheet**  
 - Checked for duplicates and validated data types  
@@ -51,17 +48,16 @@ I imported the raw `.csv` file into Excel and created three main worksheets in m
 - Integrated slicers for dynamic filtering  
 - Summarized insights visually
 
----
 
 ## 📈 Dashboard Highlights
 
-### 🔍 Filters/Slicers:
+### 🔍 Slicers:
 - Gender
 - Age Groups
 - Season
 - Product Category
 
-### 💡 KPIs:
+### 🎯 KPIs:
 - **Total Sales:** $456,000  
 - **Total Transactions:** 1000  
 - **Average Basket Size:** 2.51  
@@ -71,12 +67,11 @@ I imported the raw `.csv` file into Excel and created three main worksheets in m
 - **Monthly Sales Trend**
 - **Seasonal Sales by Product Category**
 - **Spending by Age and Product Category**
-- **Top Product Categories (Donut Chart)**
+- **Top Product Categories**
 - **Purchasing Behavior by Age and Gender**
 
 > 📷 See screenshot above for full visual.
 
----
 
 ## ❓ Exploratory Questions Addressed
 
@@ -86,14 +81,12 @@ I imported the raw `.csv` file into Excel and created three main worksheets in m
 - How does basket size relate to transaction volume?
 - Are there visible demographic or seasonal trends in shopping?
 
----
 
 ## 🛠 Tools Used
 
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, KPI calculations)
 - Basic data cleaning and transformation in Excel
 
----
 
 ## 💬 Final Notes
 
