@@ -2,7 +2,7 @@
 
 This project presents an interactive Excel dashboard built to visualize and analyze customer behavior and sales trends in a synthetic retail environment. The dashboard helps uncover key insights on how demographics, seasons, and product categories affect purchasing patterns.
 
-![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
+
 
 ---
 
